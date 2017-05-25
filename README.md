@@ -1,5 +1,6 @@
 # Aligator
 Automated Ligator = Aligator
+
 Version 1.0
 
 This script takes all FASTA .txt files within a directory and predicts optimal ligation
