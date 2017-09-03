@@ -13,6 +13,9 @@ Information document shows all user inputs, statistics, and run time for the
 program. All output files are stored within a folder that is timestamped based on when
 Aligator was launched.
 
+Please read the "Aligator Documentation and Installation" PDF before using Aligator v1.1
+for the first time.
+
 Aligator is now available as an executable for both Mac and Windows! Please navigate to
 the "Releases" tab and download the compressed executable folder for the correct OS. Please
 note: the Mac executable was prepared on OS X 10.8 (Mountain Lion), and may only work on
